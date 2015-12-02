@@ -12,7 +12,7 @@
                            [darwin "1.0.0"]
                            [semantic-csv "0.1.0-alpha1"]
                            [criterium "0.4.5"]]
-            :plugins [[lein-gorilla "0.3.4"]]
+            :plugins [[lein-gorilla "0.3.5"]]
             :jvm-opts ^:replace ["-server"
                                  ;;"-XX:+AggressiveOpts"
                                  ;;"-XX:+UseFastAccessorMethods"
