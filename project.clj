@@ -11,7 +11,7 @@
                            [algebolic "1.0.0"]
                            [darwin "1.0.0"]
                            [semantic-csv "0.1.0-alpha1"]
-                           [criterium "0.4.5"]]
+                           [criterium "0.4.3"]]
             :plugins [[lein-gorilla "0.3.5"]]
             :jvm-opts ^:replace ["-server"
                                  ;;"-XX:+AggressiveOpts"
