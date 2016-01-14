@@ -17,4 +17,4 @@
                                  ;;"-XX:+AggressiveOpts"
                                  ;;"-XX:+UseFastAccessorMethods"
                                  ;;"-XX:+UseCompressedOops"
-                                 "-Xmx4g"])
+                                 "-Xmx1g"])
